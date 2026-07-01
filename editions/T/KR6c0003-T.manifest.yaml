@@ -1,0 +1,416 @@
+canonical_identifier: bkk:krp/KR6c0003/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0003/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 光讚經
+  identifiers:
+    krp: KR6c0003
+    cbeta: T08n0222
+    cbeta_old_id: T08n0222
+    authorityid: CA0001281
+    json_key: T0222
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0222.xml
+    old_id: T08n0222
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0003_000-T.yaml, hash: 'sha256:acfe921b5033cbabc65e4b09ad59294ed356443d01f03623983302ab4fe42290'}
+  - {seq: 1, filename: KR6c0003_001-T.yaml, hash: 'sha256:431ddc7d721de06ae6f1b3ec3ef3423c0cfb8cdc587c12ad71df85d2bc620b7f'}
+  - {seq: 2, filename: KR6c0003_002-T.yaml, hash: 'sha256:6c2878b71a8bd59eba423aa5d1ce1dc0138223cb98326fccf2138b3402bcdef1'}
+  - {seq: 3, filename: KR6c0003_003-T.yaml, hash: 'sha256:d2e6bb7fe7190bb5ceeda1e9efd5b1ce0c532d6f88390936dc4553433e32de34'}
+  - {seq: 4, filename: KR6c0003_004-T.yaml, hash: 'sha256:e5b4e50472a7ed0f5e8d413b5b40bd246e69af35218e80012fb2ba05b2395f16'}
+  - {seq: 5, filename: KR6c0003_005-T.yaml, hash: 'sha256:5e3bff545c7c538bdc11f50e2921e2b67677e09b406fce4275848a66c83ff7d4'}
+  - {seq: 6, filename: KR6c0003_006-T.yaml, hash: 'sha256:3e5015efd9e685861ac4107b35890e8e106b7615e4c067131189f6a7fff891e9'}
+  - {seq: 7, filename: KR6c0003_007-T.yaml, hash: 'sha256:0812bf4318f16d9752bea4379eb8d63b37ee1b80191264a16ed21a2119fd5c52'}
+  - {seq: 8, filename: KR6c0003_008-T.yaml, hash: 'sha256:ec8dc42939aaae78e68fc9783aa59c42d825894561dff9e66fc1bebecf182165'}
+  - {seq: 9, filename: KR6c0003_009-T.yaml, hash: 'sha256:f71986f2c8ae27746db4743123284e255497935f67b650d78a230ad6a3d6b3df'}
+  - {seq: 10, filename: KR6c0003_010-T.yaml, hash: 'sha256:7ee261e4e5ce7244469ffc57698693672e77ddb165ab5810a0e9714d0d4a2cbc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0003_000-T.markers.yaml, hash: 'sha256:e21b9c0e6ac922aaee9a720ad34b742cee78316d24848de7e8608132c9599b57'}
+  - {seq: 1, role: markers, filename: assets/KR6c0003_001-T.markers.yaml, hash: 'sha256:3bb250aa123c7894bf4899a27759240c0c52c5055c2c6f7c167e80b19f27bb4d'}
+  - {seq: 2, role: markers, filename: assets/KR6c0003_002-T.markers.yaml, hash: 'sha256:6529d1182676b12409d4549fe4bb36a42bf61b393e1e8a3863cb05abdb8ec7ab'}
+  - {seq: 3, role: markers, filename: assets/KR6c0003_003-T.markers.yaml, hash: 'sha256:11fe8c4fa74dc834ac49d9ec4af6125996ef07a92dad3d8afba59ce2cb3931b0'}
+  - {seq: 4, role: markers, filename: assets/KR6c0003_004-T.markers.yaml, hash: 'sha256:1c88ba59e70f795113cfe9999da4046676b6a8ac475b0bc516595f90951e9b99'}
+  - {seq: 5, role: markers, filename: assets/KR6c0003_005-T.markers.yaml, hash: 'sha256:969a2af273913c8ddedde32d097a3514f2f4deca2445c731efd614b198f412c3'}
+  - {seq: 6, role: markers, filename: assets/KR6c0003_006-T.markers.yaml, hash: 'sha256:25336654523a4c839cf14c0fc4ca999d9692d1ff0cf2c22b95c4d15a6fff96d1'}
+  - {seq: 7, role: markers, filename: assets/KR6c0003_007-T.markers.yaml, hash: 'sha256:9e8599e265c6205401f073430c657588479632563354f7bb21beb2ec8e5e18d3'}
+  - {seq: 8, role: markers, filename: assets/KR6c0003_008-T.markers.yaml, hash: 'sha256:39e2f6e13a6835a796887c0e79dd23fecbfb5728a690019ffac8377702d42381'}
+  - {seq: 9, role: markers, filename: assets/KR6c0003_009-T.markers.yaml, hash: 'sha256:79409315ae80a9ce70789b284850df36c543f1d5d7c4e47b822c173b0b32e7b3'}
+  - {seq: 10, role: markers, filename: assets/KR6c0003_010-T.markers.yaml, hash: 'sha256:e724e9aaaeb9163dfb7392ff912a76b0050f9a2aa1ef6a70f39f1b7ab13a4f33'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0003_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12962
+  label: 光讚經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0003_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 1 光讚品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0003_T_001-mulu-2
+    span:
+    - body
+    - 6843
+    - 6843
+  label: 2 順空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0003_T_001-mulu-3
+    span:
+    - body
+    - 7729
+    - 7729
+  label: 3 行空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0003_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 13095
+  label: 光讚經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0003_T_002-mulu-1
+    span:
+    - body
+    - 7321
+    - 7321
+  label: 4 歎等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0003_T_002-mulu-2
+    span:
+    - body
+    - 8111
+    - 8111
+  label: 5 授決品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0003_T_002-mulu-3
+    span:
+    - body
+    - 8974
+    - 8974
+  label: 6 分別空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0003_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8704
+  label: 光讚經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0003_T_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 7 了空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0003_T_003-mulu-2
+    span:
+    - body
+    - 2625
+    - 2625
+  label: 8 假號品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0003_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9892
+  label: 光讚經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0003_T_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 9 行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0003_T_004-mulu-2
+    span:
+    - body
+    - 4634
+    - 4634
+  label: 10 幻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0003_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 9766
+  label: 光讚經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0003_T_005-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 11 摩訶薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0003_T_005-mulu-2
+    span:
+    - body
+    - 4788
+    - 4788
+  label: 12 等無等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0003_T_005-mulu-3
+    span:
+    - body
+    - 6249
+    - 6249
+  label: 13 大乘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0003_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 11779
+  label: 光讚經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0003_T_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 14 乘大乘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0003_T_006-mulu-2
+    span:
+    - body
+    - 868
+    - 868
+  label: 15 無縛品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0003_T_006-mulu-3
+    span:
+    - body
+    - 5694
+    - 5694
+  label: 16 三昧品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0003_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8467
+  label: 光讚經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0003_T_007-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 17 觀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0003_T_007-mulu-2
+    span:
+    - body
+    - 4662
+    - 4662
+  label: 18 蜜十住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0003_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7495
+  label: 光讚經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0003_T_008-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 19 所因出衍品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0003_T_008-mulu-2
+    span:
+    - body
+    - 2275
+    - 2275
+  label: 20 無去來品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0003_T_008-mulu-3
+    span:
+    - body
+    - 4136
+    - 4136
+  label: 21 衍與空等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0003_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8707
+  label: 光讚經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0003_T_009-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 22 分曼陀尼弗品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0003_T_009-mulu-2
+    span:
+    - body
+    - 592
+    - 592
+  label: 23 等三世品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0003_T_009-mulu-3
+    span:
+    - body
+    - 5127
+    - 5127
+  label: 24 觀行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0003_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8701
+  label: 光讚經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0003_T_010-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 25 問品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0003_T_010-mulu-2
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 26 法師如幻品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0003_T_010-mulu-3
+    span:
+    - body
+    - 4960
+    - 4960
+  label: 27 雨法寶品
+  type: mulu
+  level: 1
+hash: sha256:d78ac7a88f0452d7a466b8791dd5d1459bff9291ef6e110a45a609fdfc34f5b0
