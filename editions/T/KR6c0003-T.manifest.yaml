@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6c0003_009-T.yaml, hash: 'sha256:f71986f2c8ae27746db4743123284e255497935f67b650d78a230ad6a3d6b3df'}
   - {seq: 10, filename: KR6c0003_010-T.yaml, hash: 'sha256:7ee261e4e5ce7244469ffc57698693672e77ddb165ab5810a0e9714d0d4a2cbc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0003_000-T.markers.yaml, hash: 'sha256:e21b9c0e6ac922aaee9a720ad34b742cee78316d24848de7e8608132c9599b57'}
+  - {seq: 0, role: markers, filename: assets/KR6c0003_000-T.markers.yaml, hash: 'sha256:1af66bb331a69f47fe2bcaa33d16a005f4478806f56072d11a8e6ce7ffdfaa86'}
   - {seq: 1, role: markers, filename: assets/KR6c0003_001-T.markers.yaml, hash: 'sha256:3bb250aa123c7894bf4899a27759240c0c52c5055c2c6f7c167e80b19f27bb4d'}
   - {seq: 2, role: markers, filename: assets/KR6c0003_002-T.markers.yaml, hash: 'sha256:6529d1182676b12409d4549fe4bb36a42bf61b393e1e8a3863cb05abdb8ec7ab'}
   - {seq: 3, role: markers, filename: assets/KR6c0003_003-T.markers.yaml, hash: 'sha256:11fe8c4fa74dc834ac49d9ec4af6125996ef07a92dad3d8afba59ce2cb3931b0'}
@@ -413,4 +413,4 @@ table_of_contents:
   label: 27 雨法寶品
   type: mulu
   level: 1
-hash: sha256:d78ac7a88f0452d7a466b8791dd5d1459bff9291ef6e110a45a609fdfc34f5b0
+hash: sha256:a5b4607ca43ab322505ce185e0be062e993a4f33df83e6a8c8568cd060b8384d
